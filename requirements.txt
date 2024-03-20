@@ -1,0 +1,12 @@
+Python-socketio
+eventlet
+opencv-python
+numpy
+Flask
+Pillow
+keras
+scikit-learn
+pandas
+matplotlib
+Flask-SocketIO
+Python-engineio
